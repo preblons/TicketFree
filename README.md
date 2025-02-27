@@ -20,6 +20,4 @@ Este bot de tickets foi criado para facilitar o gerenciamento de tickets no seu 
   git clone https://github.com/preblons/TicketFree.git
   cd TicketFree```
 
-  ## 📫 Comunidade
-
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/VzDnWtcmNn)
