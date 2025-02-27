@@ -18,7 +18,7 @@ Este bot de tickets foi criado para facilitar o gerenciamento de tickets no seu 
 - Clone este repositório:
   ```bash
   git clone https://github.com/preblons/TicketFree.git
-  cd TicketFree
+  cd TicketFree```
 
   ## 📫 Comunidade
 
